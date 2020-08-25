@@ -24,6 +24,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lead-beautiful-css)](https://github.com/lead-beautiful-css/)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lead-beautiful-css&repo=api-social)](https://github.com/lead-beautiful-css/api-social)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lead-beautiful-css&repo=sapper-covid-19)](https://github.com/lead-beautiful-css/sapper-covid-19)
+
 
 
 
